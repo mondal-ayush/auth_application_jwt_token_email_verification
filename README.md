@@ -11,7 +11,7 @@ A Spring Boot application that provides a RESTful API for managing users with se
   
 - **Authentication with JWT**
   - Secure login using JSON Web Tokens (JWT).
-  - Role-based access control (default role: `ROLE_USER`).
+  - Role-based access control (default role: `ROLE_USER`). [PENDING]
 
 - **Email Confirmation for User Updates**
   - Sends a confirmation email to the user's registered email address before applying updates.
